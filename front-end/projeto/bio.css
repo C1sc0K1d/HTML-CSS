@@ -1,0 +1,183 @@
+body{
+	background-color: #F2FFFC;
+	font-family: "Crismon text", serif;
+	font-size: 120%;
+}
+
+
+
+main {
+	line-height: 1.5;
+	float: left;
+	width: 85%
+}
+
+
+
+main h1{
+	font-size:60px;
+	background-color: rgb(100, 30, 60);
+	color: #D2FFD2;
+	text-align: center;
+	font-family: "Open Sans Condensed", sans-serif;
+	padding: 25px;
+	border-bottom: 10px solid black;
+	margin: 0px;
+	text-transform: uppercase;
+}
+
+
+
+h2{
+	font-size: 30px;
+	font-family: "Open Sans Condensed", sans-serif;
+	clear: both;
+}
+
+
+
+p{
+	text-align: justify;
+	margin: 20px 0;
+}
+
+
+
+footer{
+	background-color: gray;
+	padding:5px;
+	clear: both;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+}
+
+
+
+aside{
+    background-color: rgb(70, 30, 80);
+    color: #F2FFFC;
+	padding:50px;
+	text-align: center;
+	clear: right;
+	box-sizing: border-box;
+	float: right;
+	width: 15%;
+	border-bottom: 10px solid black;
+	border-left: 10px solid black;
+	position: relative;
+	top: 309px;
+}
+
+img {
+	float: right;
+	border-bottom: 10px solid black;
+	border-left: 10px solid black;
+	box-sizing: border-box;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+
+}
+
+
+
+.icones-sociais li {
+	display: inline-block;
+}
+
+
+
+.icones-sociais a {
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	text-indent: -999999px;
+
+}
+
+.github {
+	background-image: url(github.png);
+}
+
+#twitter {
+	background-image: url(twitter.png);
+}
+
+.linkedin {
+	background-image: url(linkedin.png);
+}
+
+
+
+aside h1 {
+	font-size: 30px;
+    margin-bottom: 25px;
+}
+
+
+
+main a {
+    color: #851944;
+}
+
+
+
+aside a {
+    color: white;
+    font-family: "Open Sans Condensed", sans-serif;
+}
+
+
+
+nav a {
+    color: #F2FFFC;
+}
+
+
+
+blockquote {
+	background-color: lightgray;
+	padding: 15px;
+	border: 10px solid gray;
+	box-sizing: border-box;
+	width: 270px;
+	margin: 10px 10px;
+}
+
+.block-fiat {
+	float: right;
+}
+
+.block-petrobras {
+	float: left;
+}
+
+
+
+
+blockquote p {
+	text-align: left;
+	line-height: 1.5;
+}
+
+
+
+blockquote cite {
+	font-family: "Crismon text", serif;
+	text-align: justify;
+}
+
+
+
+main div {
+    width: 820px;
+    margin-left: auto;
+    margin-right: auto;
+	background-color: #FAFAFA;
+
+}
+
+.container {
+	padding-bottom: 80px;
+}

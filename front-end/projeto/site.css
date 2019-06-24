@@ -1,0 +1,144 @@
+body{
+	background-color: #F2FFFC;
+	font-family: "Crismon text", serif;
+	font-size: 120%;
+}
+
+
+
+main {
+	line-height: 1.5;
+}
+
+
+
+main h1{
+	font-size:60px;
+	background-color: rgb(100, 30, 60);
+	color: #D2FFD2;
+	text-align: center;
+	font-family: "Open Sans Condensed", sans-serif;
+	padding: 25px;
+	border-bottom: 10px solid black;
+	margin: 0px;
+	text-transform: uppercase;
+}
+
+
+
+h2{
+	font-size: 30px;
+	font-family: "Open Sans Condensed", sans-serif;
+}
+
+
+
+p{
+	text-align: justify;
+	margin: 20px 0;
+}
+
+
+
+main footer{
+	background-color: gray;
+	padding:5px;
+}
+
+
+
+aside {
+    background-color: rgb(100, 30, 60);
+    color: #F2FFFC;
+	padding:2px;
+	text-align: center;
+}
+
+
+
+#links li {
+	display: inline-block;
+}
+
+
+
+aside h1 {
+	font-size: 30px;
+    margin-bottom: 25px;
+}
+
+
+
+main a {
+    color: #851944;
+}
+
+
+
+aside a {
+    color: white;
+    font-family: "Open Sans Condensed", sans-serif;
+}
+
+
+
+nav a {
+    color: #F2FFFC;
+	text-transform: lowercase;
+}
+
+
+
+blockquote {
+	background-color: lightgray;
+	padding: 20px;
+	border: 10px solid gray;
+	box-sizing: border-box;
+	width: 200px;
+	margin: 20px 40px;
+}
+
+
+
+blockquote p {
+	text-align: left;
+	line-height: 1.5;
+}
+
+
+
+blockquote cite {
+	font-family: "Crismon text", serif;
+	text-align: justify;
+}
+
+
+
+main div {
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+	background-color: #FAFAFA;
+
+}
+
+#rodape-pagina {
+    background-color: black;
+    color: #FFFFFC;
+    padding: 10px;
+}
+
+article {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.leia-mais {
+    padding: 8px;
+    margin: 16px;
+    display: block;
+    font-size: 24px;
+    text-align: center;
+    background-color: #E6E7E8;
+}
